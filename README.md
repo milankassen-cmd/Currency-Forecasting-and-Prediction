@@ -5,3 +5,9 @@ In this project I used advanced time series forecasting methods to model the dat
 
 <h2> Objective </h2>
 The objective of this project was to see how closely the models used would accurately predict the final close price of the exchange rate on an up-to-date basis. This type of forecasting techniques could be used across different industries with a strong time variable like the retail industry. 
+
+<h2> Data and Packages </h2>
+<b> Packages: </b> numpy, pandas, plotly, pmdarima, scikit-learn, statsmodels, yfinance <br>
+<b> Data Source: </b> data obtained from the yfinance library
+
+<h2> </h2>
